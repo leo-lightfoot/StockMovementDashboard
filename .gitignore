@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# IDE and Editor Files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Environment Variables
+.env
+.env.example
+
+# Logs
+*.log
+
+# Build and Distribution Files
+build/
+dist/
+*.egg-info/
+
+# Node.js
+node_modules/
+package-lock.json
+npm-debug.log
+yarn-error.log
+
+# Vite
+dist/
+*.local
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+# Tailwind CSS
+tailwind.config.js
+postcss.config.js
+
+# TypeScript
+*.tsbuildinfo
